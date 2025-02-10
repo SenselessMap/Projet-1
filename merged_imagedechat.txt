@@ -1,0 +1,1 @@
+Après avoir créé deux image de chat sur la branche imagedechat, j'ai merge imagedechat avec le main. J'ai ensuite rajouté de .txt avant de push.
