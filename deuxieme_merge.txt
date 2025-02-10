@@ -1,0 +1,1 @@
+dans la deuxième partie de travail, j'ai merged feature3 à main après avoir créé une nouvelle page et fait une modification. j'ai ensuite créé ce fichier .txt
